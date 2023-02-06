@@ -1,0 +1,12 @@
+Player 1 is holding the pillow at t=1
+Player 1 is holding the pillow at t=4
+Player 2 is holding the pillow at t=7
+Player 2 has been eliminated at t=7
+Player 3 is holding the pillow at t=7
+Player 3 is holding the pillow at t=8
+Player 7 is holding the pillow at t=10
+Player 7 is holding the pillow at t=1610
+Player 7 has been eliminated at t=1611
+Player 5 has been eliminated at t=1611
+Player 3 is holding the pillow at t=1611
+Game over: Player 3 is holding the pillow at t=1611, pillow passing sequence = Player 3,6,4,1
